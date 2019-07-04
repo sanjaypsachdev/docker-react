@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi There !
+          I was changed on the feature branch docker-react-1.
         </p>
         <a
           className="App-link"
